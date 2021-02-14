@@ -996,7 +996,7 @@
   "TopbarMobileMenu.profileSettingsLink": "Profile settings",
   "TopbarMobileMenu.signupLink": "Sign up",
   "TopbarMobileMenu.signupOrLogin": "{signup} or {login}",
-  "TopbarMobileMenu.unauthorizedGreeting": "Hello there,{lineBreak}would you like to {signupOrLogin}?",
+  "TopbarMobileMenu.unauthorizedGreeting": "Welcome to yubaro.{lineBreak}{signupOrLogin}",
   "TopbarMobileMenu.yourListingsLink": "Your listings",
   "TopbarSearchForm.placeholder": "Search items…",
   "TopbarSearchForm.searchHelp": "Tip: You can also search items by zip code, for example \"00500\" or city district \"Sörnäinen\".",
