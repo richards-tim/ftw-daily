@@ -11,7 +11,7 @@ import {
   ExternalLink,
 } from '../../components';
 
-import css from './AboutPage.module.css';
+import css from './FaqPage.module.css';
 import image from './about-us-1056.jpg';
 
 const AboutPage = () => {
@@ -21,12 +21,12 @@ const AboutPage = () => {
   // prettier-ignore
   return (
     <StaticPage
-      title="About Us"
+      title="Frequently Asked Questions"
       schema={{
         '@context': 'http://schema.org',
-        '@type': 'AboutPage',
-        description: 'About Saunatime',
-        name: 'About page',
+        '@type': 'FaqPage',
+        description: 'Frequent Asked Questions',
+        name: 'Faq page',
       }}
     >
       <LayoutSingleColumn>
@@ -35,7 +35,7 @@ const AboutPage = () => {
         </LayoutWrapperTopbar>
 
         <LayoutWrapperMain className={css.staticPageWrapper}>
-          <h1 className={css.pageTitle}>Rent from your neighbors.</h1>
+          <h1 className={css.pageTitle}>Frequently Asked Questions</h1>
           <img className={css.coverImage} src={image} alt="My first ice cream." />
 
           <div className={css.contentWrapper}>
@@ -45,10 +45,7 @@ const AboutPage = () => {
 
             <div className={css.contentMain}>
               <h2>
-                Most of the Finnish saunas are located at the homes of individuals - indeed, most
-                people in Finland live in an apartment with sauna in it. In addition, lots of people
-                have lakeside summer cottages, which also typically come with a separate sauna
-                building near the waterfront.
+                Do you have a question?
               </h2>
 
               <p>
