@@ -12,7 +12,7 @@ export default [
     id: 'default-utahcounty',
     predictionPlace: {
       address: 'Utah County, Utah',
-      bounds: new LatLngBounds(new LatLng(60.29783, 25.25448), new LatLng(59.92248, 24.78287)),
+      bounds: new LatLngBounds(new LatLng(40.1767268, -111.8159725), new LatLng(59.92248, 24.78287)),
     },
   },
   {
