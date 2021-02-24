@@ -94,7 +94,7 @@ export const filters = [
   },
   {
     id: 'amenities',
-    label: 'Amenities',
+    label: 'Options',
     type: 'SelectMultipleFilter',
     group: 'secondary',
     queryParamNames: ['pub_amenities'],
@@ -109,37 +109,18 @@ export const filters = [
       // to make filter customizations a bit easier.
       options: [
         {
-          key: 'towels',
-          label: 'Towels',
+          key: 'option1',
+          label: 'Option 1',
         },
         {
-          key: 'bathroom',
-          label: 'Bathroom',
+          key: 'option2',
+          label: 'Option 2',
         },
         {
-          key: 'swimming_pool',
-          label: 'Swimming pool',
+          key: 'option3',
+          label: 'Option 3',
         },
-        {
-          key: 'own_drinks',
-          label: 'Own drinks allowed',
-        },
-        {
-          key: 'jacuzzi',
-          label: 'Jacuzzi',
-        },
-        {
-          key: 'audiovisual_entertainment',
-          label: 'Audiovisual entertainment',
-        },
-        {
-          key: 'barbeque',
-          label: 'Barbeque',
-        },
-        {
-          key: 'own_food_allowed',
-          label: 'Own food allowed',
-        },
+        
       ],
     },
   },
