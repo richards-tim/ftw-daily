@@ -85,9 +85,9 @@ export const filters = [
       // Note: label is not added through the translation files
       // to make filter customizations a bit easier.
       options: [
-        { key: 'smoke', label: 'Smoke' },
-        { key: 'electric', label: 'Electric' },
-        { key: 'wood', label: 'Wood' },
+        { key: 'water', label: 'Water' },
+        { key: 'snow', label: 'Snow' },
+        { key: 'sports', label: 'Sports' },
         { key: 'other', label: 'Other' },
       ],
     },
