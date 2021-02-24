@@ -115,7 +115,7 @@ const Footer = props => {
                     name="SearchPage"
                     to={{
                       search:
-                        '?address=Helsinki%2C%20Finland&bounds=60.2978389%2C25.254484899999966%2C59.9224887%2C24.782875800000056&origin=60.16985569999999%2C24.93837910000002',
+                        '?address=Utah%20County%2C%20Utah&bounds=40.577913%2C-110.857647%2C39.776246%2C-112.214178&origin=40.577913%2C-110.857647%2C39.776246%2C-112.214178',
                     }}
                     className={css.link}
                   >
@@ -127,7 +127,7 @@ const Footer = props => {
                     name="SearchPage"
                     to={{
                       search:
-                        '?address=Turku%2C%20Finland&bounds=60.5304531%2C22.38197820000005%2C60.33361189999999%2C22.066440100000023&origin=60.4518126%2C22.26663020000001',
+                        '?address=Salt%20Lake%20County%2C%20Utah&bounds=40.921846%2C-111.553188%2C40.414169%2C-112.260216&origin=40.921846%2C-111.553188%2C40.414169%2C-112.260216',
                     }}
                     className={css.link}
                   >
@@ -139,7 +139,7 @@ const Footer = props => {
                     name="SearchPage"
                     to={{
                       search:
-                        '?address=Tampere%2C%20Finland&bounds=61.83657359999999%2C24.118384099999957%2C61.42728169999999%2C23.542201299999988&origin=61.4977524%2C23.760953500000028',
+                        '?address=Washington%20County%2C%20Utah&bounds=37.618289%2C-112.899066%2C36.999975%2C-114.052885&origin=37.618289%2C-112.899066%2C36.999975%2C-114.052885',
                     }}
                     className={css.link}
                   >
@@ -151,7 +151,7 @@ const Footer = props => {
                     name="SearchPage"
                     to={{
                       search:
-                        '?address=Oulu%2C%20Finland&bounds=65.5643426%2C26.770696000000044%2C64.8443082%2C24.114941999999928&origin=65.0120888%2C25.465077199999996',
+                        '?address=Weber%20County%2C%20Utah&bounds=41.433873%2C-111.420381%2C41.076888%2C-112.493515&origin=41.433873%2C-111.420381%2C41.076888%2C-112.493515',
                     }}
                     className={css.link}
                   >
@@ -163,7 +163,7 @@ const Footer = props => {
                     name="SearchPage"
                     to={{
                       search:
-                        '?address=Rukatunturi%2C%20Kuusamo%2C%20Finland&bounds=66.1699707%2C29.167735499999935%2C66.1609529%2C29.13572069999998&origin=66.1654622%2C29.151728100000014',
+                        '?address=Utah%2C%20United%20States&bounds=42.0017029816562%2C-109.041571000088%2C36.9976560000223%2C-114.052867999942&orgin=42.0017029816562%2C-109.041571000088%2C36.9976560000223%2C-114.052867999942',
                     }}
                     className={css.link}
                   >

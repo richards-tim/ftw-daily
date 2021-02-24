@@ -58,12 +58,12 @@ const SectionLocations = props => {
         {locationLink(
           'Salt Lake County',
           saltlakecountyImage,
-          '?address=Rovaniemi%2C%20Finland&bounds=67.18452510000002%2C27.32667850000007%2C66.1553745%2C24.736871199999996&origin=66.50394779999999%2C25.729390599999988'
+          '?address=Salt%20Lake%20County%2C%20Utah%2C%20United%20States&bounds=40.921846%2C-111.553188%2C40.414169%2C-112.260216&origin=40.921846%2C-111.553188%2C40.414169%2C-112.260216'
         )}
         {locationLink(
           'Washington County',
           washingtoncountyImage,
-          '?address=Ruka%2C%20Finland&bounds=66.1704578%2C29.14246849999995%2C66.1614402%2C29.110453699999994&origin=66.16594940000002%2C29.12646110000003'
+          '?address=Washington%20County%2C%20Utah&bounds=37.618289%2C-112.899066%2C36.999975%2C-114.052885&origin=37.618289%2C-112.899066%2C36.999975%2C-114.052885'
         )}
       </div>
     </div>
