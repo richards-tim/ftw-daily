@@ -55,7 +55,13 @@ export class NotFoundPageComponent extends Component {
           <LayoutWrapperMain>
             <div className={css.root}>
               <div className={css.content}>
-              
+                <div className={css.number}>404</div>
+                <h1 className={css.heading}>
+                  <FormattedMessage id="NotFoundPage.heading" />
+                </h1>
+                <p className={css.description}>
+                  <FormattedMessage id="NotFoundPage.description" />
+                </p>
                 <LocationSearchForm className={css.searchForm} onSubmit={handleSearchSubmit} />
               </div>
             </div>

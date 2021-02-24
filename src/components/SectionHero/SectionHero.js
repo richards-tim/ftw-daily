@@ -10,7 +10,7 @@ const SectionHero = props => {
   const { rootClassName, className } = props;
 
   const classes = classNames(rootClassName || css.root, className);
-
+	
   return (
     <div className={classes}>
       <div className={css.heroContent}>
@@ -24,7 +24,7 @@ const SectionHero = props => {
           name="SearchPage"
           to={{
             search:
-              'address=Finland&bounds=70.0922932%2C31.5870999%2C59.693623%2C20.456500199999937',
+              'address=Utah%2C%20United%20States&bounds=42.0017029816562%2C-109.041571000088%2C36.9976560000223%2C-114.052867999942',
           }}
           className={css.heroButton}
         >
