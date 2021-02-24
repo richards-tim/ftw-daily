@@ -53,12 +53,12 @@ const SectionLocations = props => {
         {locationLink(
           'Utah County',
           utahcountyImage,
-          '?address=Utah%20County%2C%20Utah%2C%20United%20States&bounds=40.577913%2C-110.857647%2C39.776246%2C-112.214178&origin=40.577913%2C-110.857647%2C39.776246%2C-112.214178'
+          '?address=Utah%20County%2C%20Utah&bounds=40.577913%2C-110.857647%2C39.776246%2C-112.214178&origin=40.577913%2C-110.857647%2C39.776246%2C-112.214178'
         )}
         {locationLink(
           'Salt Lake County',
           saltlakecountyImage,
-          '?address=Salt%20Lake%20County%2C%20Utah%2C%20United%20States&bounds=40.921846%2C-111.553188%2C40.414169%2C-112.260216&origin=40.921846%2C-111.553188%2C40.414169%2C-112.260216'
+          '?address=Salt%20Lake%20County%2C%20Utah&bounds=40.921846%2C-111.553188%2C40.414169%2C-112.260216&origin=40.921846%2C-111.553188%2C40.414169%2C-112.260216'
         )}
         {locationLink(
           'Washington County',
